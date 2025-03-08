@@ -36,6 +36,8 @@ const SimpleBarStyle = styled(SimpleBarReact)(({ theme }) => ({
   }
 }));
 
+
+
 // ----------------------------------------------------------------------
 
 Scrollbar.propTypes = {
